@@ -1,5 +1,6 @@
 def oxford_comma(array)
-  return [kiwi].join
+  array = []
+  return [].join
 end
 
 
