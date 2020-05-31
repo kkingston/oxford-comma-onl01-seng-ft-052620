@@ -1,20 +1,4 @@
-
-
 def oxford_comma(array)
-  array = [kiwi]
-  return array.join
+  fruits = [kiwi]
+  puts fruits.join
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
